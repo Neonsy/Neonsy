@@ -136,12 +136,13 @@ I'm always excited about new challenges and creative collaborations.
 
 Whether you have a project in mind or simply want to chat about tech, feel free to reach out.
 
-### Join the Discord Server 🚀
+### [Join the Discord Server][discord-url] 🚀
 
 [![Discord server][discord-badge]][discord-url]
 
 <details>
   <summary><strong>Server Overview</strong></summary><br>
+
   - **🏡 Home:** Get the latest news, report issues, and share suggestions.
   - **🌐 General:** Casual conversations and community interactions.
   - **🎭 Roles:** Showcase your identity with custom roles.
