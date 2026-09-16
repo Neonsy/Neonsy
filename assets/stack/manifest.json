@@ -1,0 +1,203 @@
+[
+  {
+    "label": "HTML",
+    "group": "Languages &amp; runtimes",
+    "id": "html",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/html5/html5-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "CSS",
+    "group": "Languages &amp; runtimes",
+    "id": "css",
+    "url": "https://raw.githubusercontent.com/gilbarbara/logos/a5b65275e761a8347a99eded1101c6b130a06e52/logos/css.svg",
+    "license": "logos"
+  },
+  {
+    "label": "JavaScript",
+    "group": "Languages &amp; runtimes",
+    "id": "javascript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/javascript/javascript-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "TypeScript",
+    "group": "Languages &amp; runtimes",
+    "id": "typescript",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/typescript/typescript-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Node.js",
+    "group": "Languages &amp; runtimes",
+    "id": "nodejs",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/nodejs/nodejs-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Vite",
+    "group": "Frontend &amp; apps",
+    "id": "vite",
+    "url": "https://raw.githubusercontent.com/vitejs/vite/814120f2ad387ca3d1e16c7dd403b04ca4b97f75/docs/public/logo.svg",
+    "license": "vite"
+  },
+  {
+    "label": "Tailwind CSS",
+    "group": "Frontend &amp; apps",
+    "id": "tailwindcss",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/tailwindcss/tailwindcss-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "HTMX",
+    "group": "Frontend &amp; apps",
+    "id": "htmx",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/htmx/htmx-original.svg",
+    "license": "devicon",
+    "tile": "ffffff"
+  },
+  {
+    "label": "React",
+    "group": "Frontend &amp; apps",
+    "id": "react",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "TanStack",
+    "group": "Frontend &amp; apps",
+    "id": "tanstack",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/tanstack.svg",
+    "color": "ECE8D1",
+    "tile": "191919",
+    "license": "simple-icons"
+  },
+  {
+    "label": "Astro",
+    "group": "Frontend &amp; apps",
+    "id": "astro",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/astro/astro-original.svg",
+    "license": "devicon",
+    "tile": "ffffff"
+  },
+  {
+    "label": "Fumadocs",
+    "group": "Frontend &amp; apps",
+    "id": "fumadocs",
+    "format": "png",
+    "url": "https://raw.githubusercontent.com/fuma-nama/fumadocs/4b073e55ffdea6e81bd88042b3ddcf5bab325b19/apps/docs/app/icon.png",
+    "license": "fumadocs"
+  },
+  {
+    "label": "Zustand",
+    "group": "State, data &amp; contracts",
+    "id": "zustand",
+    "url": "https://raw.githubusercontent.com/pmndrs/zustand/ebf2b7ab169a2cfe6b3a4e7daca16a61d9bfd03c/examples/starter/src/assets/zustand-mascot.svg",
+    "license": "zustand"
+  },
+  {
+    "label": "Mutative",
+    "group": "State, data &amp; contracts",
+    "id": "mutative",
+    "url": "https://raw.githubusercontent.com/unadlib/mutative/55b54c4a74bd68e2886948210cb76f1caef2a914/website/static/img/logo.svg",
+    "license": "mutative"
+  },
+  {
+    "label": "PostgreSQL",
+    "group": "State, data &amp; contracts",
+    "id": "postgresql",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/postgresql/postgresql-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Convex",
+    "group": "State, data &amp; contracts",
+    "id": "convex",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/convex.svg",
+    "color": "EE342F",
+    "license": "simple-icons"
+  },
+  {
+    "label": "Drizzle",
+    "group": "State, data &amp; contracts",
+    "id": "drizzle",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/drizzle.svg",
+    "color": "C5F74F",
+    "tile": "191919",
+    "license": "simple-icons"
+  },
+  {
+    "label": "ArkType",
+    "group": "State, data &amp; contracts",
+    "id": "arktype",
+    "url": "https://raw.githubusercontent.com/arktypeio/arktype/8b91296731585f2a9861b29de94c4ce97ef1519d/ark/docs/public/image/favicon.svg",
+    "license": "arktype"
+  },
+  {
+    "label": "Git",
+    "group": "Tooling &amp; shipping",
+    "id": "git",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Jujutsu",
+    "group": "Tooling &amp; shipping",
+    "id": "jujutsu",
+    "url": "https://raw.githubusercontent.com/jj-vcs/jj/4e229022490f445b489edfc7baa016d8dac57446/docs/images/jj-logo.svg",
+    "license": "jujutsu"
+  },
+  {
+    "label": "pnpm",
+    "group": "Tooling &amp; shipping",
+    "id": "pnpm",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/pnpm/pnpm-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Docker",
+    "group": "Tooling &amp; shipping",
+    "id": "docker",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/docker/docker-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Nginx",
+    "group": "Tooling &amp; shipping",
+    "id": "nginx",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/nginx.svg",
+    "color": "009639",
+    "license": "simple-icons"
+  },
+  {
+    "label": "Caddy",
+    "group": "Tooling &amp; shipping",
+    "id": "caddy",
+    "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/4ba19240849175ab4b855a732ab98c0f87cfb714/icons/caddy.svg",
+    "license": "simple-icons",
+    "color": "1F88C0"
+  },
+  {
+    "label": "Vercel",
+    "group": "Tooling &amp; shipping",
+    "id": "vercel",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/vercel/vercel-original.svg",
+    "license": "devicon",
+    "tile": "ffffff"
+  },
+  {
+    "label": "Cloudflare",
+    "group": "Tooling &amp; shipping",
+    "id": "cloudflare",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/cloudflare/cloudflare-original.svg",
+    "license": "devicon"
+  },
+  {
+    "label": "Railway",
+    "group": "Tooling &amp; shipping",
+    "id": "railway",
+    "url": "https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/railway/railway-original.svg",
+    "license": "devicon",
+    "tile": "191919"
+  }
+]
